@@ -20,12 +20,12 @@
 -I'm a junior at ODU majoring in Game Studies and Minoring in Studio Arts. I have a love and passion for 3D modeling and I hope to one day put this passion to work at a video game company. 
 My discord is: nightkat527#3022
 
-- 🔭 I’m currently working on a website showcasing some of my 3D models and unity asset packages
-- 🌱 I’m currently learning new softwares to help me in my fiture career
-- 👯 I’m looking to collaborate on a game :)
-- 🤔 I’m looking for help with sound and music production
-- 💬 Ask me about AI and Aliens 👽
-- 📫 Please email via klitt014@odu.edu or my private, nightkat527@gmail.com to reach me 😊
-- 😄 Pronouns: She/her/they/them
-- ⚡ Fun fact: My friends are my family 😎
+- 💻 I’m currently working on a website showcasing some of my 3D models and unity asset packages
+- 🎈 I’m currently learning new softwares to help me in my future career
+- 🎮 I’m looking to collaborate on a game :)
+- 🎹 I’m looking for help with sound and music production
+- 💬 Ask me about AI and Aliens 🍄
+- 💌 Please email via klitt014@odu.edu or my private, nightkat527@gmail.com to reach me 😊
+- 🌸 Pronouns: She/her/they/them 🍓
+- ❤️ Fun fact: My friends are my family ☁️
 -->
