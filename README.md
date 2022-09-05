@@ -1,5 +1,3 @@
-### Hi 👋, I'm Kat!
-
 <img src="https://github.com/nightkat527/nightkat527/blob/main/White%20Minimal%20with%20Textured%20Background%20NFT%20Twitter%20Header.png">
 
 <a href="https://www.instagram.com/nightkat527/">
