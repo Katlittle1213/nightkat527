@@ -15,7 +15,7 @@
 <br />
 <br />
 
-<img align="left" alt="GIF" src="https://media.giphy.com/media/clffiicvvmhXrYaAs8/giphy.gif" /> width="150" height="150"
+<img align="left" alt="GIF" width="150" height="150" src="https://media.giphy.com/media/clffiicvvmhXrYaAs8/giphy.gif" />
 
 -I'm a junior at ODU majoring in Game Studies and Minoring in Studio Arts. I have a love and passion for 3D modeling and I hope to one day put this passion to work at a video game company. 
 My discord is: nightkat527#3022
