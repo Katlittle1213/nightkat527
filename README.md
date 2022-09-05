@@ -5,8 +5,8 @@
 <a href="https://www.instagram.com/nightkat527/">
   <img align="left" alt="Kat's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.fuzzphyte.com">
-  <img align="left" alt="Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.7.0/icons/html5.svg" />
+<a href="https://discordapp.com/users/nightkat527#3022">
+  <img align="left" alt="Personal Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://twitter.com/NIGHTMAREKAT">
   <img align="left" alt="Kat's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.7.0/icons/twitter.svg" />
