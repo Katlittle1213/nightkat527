@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nightkat527/nightkat527/main/BunnyHeader.png">
+<img src="https://raw.githubusercontent.com/nightkat527/nightkat527/main/BunnyHeader1.png">
 
 <a href="https://www.instagram.com/nightkat527/">
   <img align="left" alt="Kat's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
