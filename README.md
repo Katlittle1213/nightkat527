@@ -1,7 +1,5 @@
 ### Hi 👋, I'm Kat!
 
- <img align="center" src="https://www.canva.com/design/DAFLV8kUs5c/cg_Wk1d4VjRonEM5C-nS2A/view?utm_content=DAFLV8kUs5c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" />
-
 <a href="https://www.instagram.com/nightkat527/">
   <img align="left" alt="Kat's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
