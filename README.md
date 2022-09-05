@@ -30,7 +30,7 @@
 - 📝 See my [Curriculum Vitae](https://github.com/JShull/JShull/blob/main/JShull_CV.pdf) to get more info
 - ⚡ Fun fact: When I was in highschool, I helped some internet friends create [DayOfDefeat](https://www.dayofdefeat.com/)! You won't find my name in the credits but you might find my dad **[FuzzDad](https://dayofdefeat.fandom.com/wiki/Glider)**
 
--🔭 I’m currently working on a website showcasing some of my 3D models and unity asset packages
+- 🔭 I’m currently working on a website showcasing some of my 3D models and unity asset packages
 -🌱 I’m currently learning new softwares to help me in my fiture career
 -👯 I’m looking to collaborate on a game :)
 -🤔 I’m looking for help with sound and music production
