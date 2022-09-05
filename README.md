@@ -15,10 +15,10 @@
 <br />
 <br />
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/cOSbH8NoUFt9MXbuie/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/clffiicvvmhXrYaAs8/giphy.gif" />
 
 -I'm a junior at ODU majoring in Game Studies and Minoring in Studio Arts. I have a love and passion for 3D modeling and I hope to one day put this passion to work at a video game company. 
-- My discord is: nightkat527#3022
+My discord is: nightkat527#3022
 
 - 🔭 I’m currently working on a website showcasing some of my 3D models and unity asset packages
 - 🌱 I’m currently learning new softwares to help me in my fiture career
