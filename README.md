@@ -24,4 +24,4 @@
 - 💬 Ask me about AI and Aliens 🍄
 - 💌 Please email via klitt014@odu.edu or my private, nightkat527@gmail.com to reach me
 - 🌸 Pronouns: She/her/they/them 🍓
-- ❤️ Fun fact: My friends are my family ☁️
+- ❤️ Fun fact: My friends are my family 
