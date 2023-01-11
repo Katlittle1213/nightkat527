@@ -13,7 +13,7 @@
 <br />
 <br />
 
-<img align="right" alt="GIF" width="250" height="250" src="https://media.giphy.com/media/clffiicvvmhXrYaAs8/giphy.gif" />
+<img align="right" alt="GIF" width="250" height="250" src="https://thumbs.gfycat.com/IdioticJollyGrison-size_restricted.gif" />
 
 -Heya😊, I'm a junior at ODU majoring in Game Studies and Minoring in Studio Arts. I have a love and passion for 3D modeling and I hope to one day put this passion to work at a video game company. 
 
