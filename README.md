@@ -15,13 +15,12 @@
 
 <img align="right" alt="GIF" width="250" height="250" src="https://thumbs.gfycat.com/IdioticJollyGrison-size_restricted.gif" />
 
--Heya😊, I'm a junior at ODU majoring in Game Studies and Minoring in Studio Arts. I have a love and passion for 3D modeling and I hope to one day put this passion to work at a video game company. 
+-Heya😊, I'm a Senior at ODU majoring in Game Studies and Minoring in women studies and queer studies. I have a love and passion for 3D modeling and critical analysis. I hope to be a professor in Queer game studies and feminist technologies
 
-- 💻 I’m currently working on a website showcasing some of my 3D models and unity asset packages
 - 🎈 I’m currently learning new softwares to help me in my future career
 - 🎮 I’m looking to collaborate on a game :)
 - 🎹 I’m looking for help with sound and music production
-- 💬 Ask me about AI and Aliens 🍄
-- 💌 Please email via klitt014@odu.edu or my private, nightkat527@gmail.com to reach me
-- 🌸 Pronouns: She/her/they/them 🍓
+- 💬 Ask me about AI and feminism 🍄
+- 💌 Please email via klitt014@odu.edu or my private, katlenalittle@gmail.com to reach me
+- 🌸 Pronouns: She/they 🍓
 - ❤️ Fun fact: My friends are my family 
